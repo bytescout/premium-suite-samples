@@ -1056,5 +1056,5 @@
 \Visual Basic 6\Set barcode size with barcode sdk
 \Visual Basic 6\Simple barcode reading with BarCode Reader SDK
 \Visual Basic 6\Split pdf with pdf extractor sdk
-\Visual Basic 6\Create side by side manifest\UMMM-master
-\Visual Basic 6\Create side by side manifest\UMMM-master\Src
+\Visual Basic 6\Create side by side manifest\Create side by side manifest
+\Visual Basic 6\Create side by side manifest\Create side by side manifest\Src
